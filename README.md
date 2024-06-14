@@ -1,1 +1,1 @@
-# EDHelper
+# EDH-Helper
